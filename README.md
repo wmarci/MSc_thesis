@@ -1,5 +1,3 @@
-# MSc_thesis
+# MSC Thesis in Mechatronics 
 
-MSC Thesis
-
-This repository contains all the necessarry codes/notebooks for the Thesis.
+This repository contains all the necessarry codes/notebooks for the creating the image classfier and object detectors.
